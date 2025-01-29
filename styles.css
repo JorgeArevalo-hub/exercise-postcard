@@ -1,0 +1,81 @@
+body {
+	background-color: black;
+}
+td {
+	border-bottom: 1px black solid;
+}
+h1 {
+	font-family: "Indie Flower";
+}
+p {
+	font-family: "Indie Flower";
+	text-align: justify;
+	line-height: 0.9;
+}
+#postcard {
+	background-color: white;
+	height: 35%;
+	width: 22%;
+	margin: auto;
+}
+#title {
+	margin-left: 15px;
+	width: 67%;
+	float: left;
+}
+#logo {
+	margin-right: 15px;
+	width: 25%;
+	text-align: right;
+	float: left;
+}
+#logopng {
+	margin-top: 15px;
+	width: 40%;
+	height: 40%;
+}
+#firstbox {
+	float: left;
+	height: 70px;
+	width: 100%;
+	background-color: white;
+}
+#secondbox {
+	float: left;
+	height: 50%;
+	width: 100%;
+	background-color: white;
+}
+#text {
+	float: left;
+	width: 45%;
+	margin-left: 15px;
+}
+#list {
+	float: left;
+	width: 45%;
+	margin-right: 15px;
+	margin-left: 5px;
+}
+#buttonbox {
+	float: left;
+	height: 10%;
+	width: 100%;
+	background-color: white;
+}
+#button {
+	margin: auto;
+	height: 18px;
+	width: 30%;
+	text-align: center;
+	background-color: lightgrey;
+	border-bottom: 1px black solid;
+}
+table {
+	margin-left: 15px;
+	width: 100%;
+}
+#comment {
+	color: grey;
+	font-family: "Indie Flower";
+}
